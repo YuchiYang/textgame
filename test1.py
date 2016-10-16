@@ -127,17 +127,13 @@ def currentfinder(qmap1,pos):
         t=qmap1[i][0]
         if (pos==t):
             return i
-    print("dont worry not infinite")
-
+    
 if __name__ == "__main__":
-    #intro()
+    intro()
     relation_points=0
     current_question_index=0
     questionid=0
     qmapper=qmap()
-    # print("start")
-    # wait(5000)
-    # print("done")
 
     while(1):
         current_question_index = currentfinder(qmapper,questionid)
