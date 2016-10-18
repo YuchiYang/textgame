@@ -100,7 +100,7 @@ def getans(num_options):
 
 def qmap():
     q=[]
-    for i in range(100):
+    for i in range(10):
         q.append(0)
     q[0]=[0,1,2,1]
     q[1]=[1,3,4,3]
@@ -127,7 +127,7 @@ def currentfinder(qmap1,pos):
         t=qmap1[i][0]
         if (pos==t):
             return i
-    
+
 if __name__ == "__main__":
     intro()
     relation_points=0
