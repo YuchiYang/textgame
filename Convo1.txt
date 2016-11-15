@@ -1,0 +1,27 @@
+Convo 1 with
+Participants:Tom,Tim
+//cTom//Tom: Hi
+Tim:Hi
+//a1//Hi Tom//next4//rTom20//rTim-15//
+//a2//Hi Tim//next3//
+
+//q2//aflahsflk
+//a1//fjihefihihewg//q4//
+//a2//afjsjf//q6//
+
+//q3//aflahsflk
+//a1//fjihefihihewg//q4//
+//a2//afjsjf//q6//
+
+//q4//aflahsflk
+//a1//fjihefihihewg//q4//
+//a2//afjsjf//q6//
+
+//q5//aflahsflk
+//a1//fjihefihihewg//q4//
+//a2//afjsjf//q6//
+
+//p1//aflahsflk
+//a1//fjihefihihewg//q4//
+//a2//afjsjf//q6//
+
