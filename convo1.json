@@ -1,0 +1,38 @@
+{
+    "participant1": "tom",
+    "participant2": "tim",
+    "Block1": {
+        "Tom1": "Hi",
+        "Tim1": "Hi",
+        "answers": [{
+            "answerno": 1,
+            "text": "Hi Tom",
+            "next": 4,
+            "rTom": 20,
+            "rTim": -15
+        }, {
+            "answerno": 2,
+            "text": "Hi guys",
+            "next": 9,
+            "rTom": 20,
+            "rTim": 15
+        }]
+    },
+    "Block2": {
+        "Tom1": "Hiiiiii",
+        "Tim1": "Hi",
+        "answers": [{
+            "answerno": 1,
+            "text": "Hi Tom",
+            "next": 4,
+            "rTom": 20,
+            "rTim": -15
+        }, {
+            "answerno": 2,
+            "text": "Hi guys",
+            "next": 9,
+            "rTom": 20,
+            "rTim": 15
+        }]
+    }
+}
