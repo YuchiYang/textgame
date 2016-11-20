@@ -1,10 +1,11 @@
 {
     "participant1": "tom",
     "participant2": "tim",
+    "Blocks":2,
     "Block1": {
-        "Tom1": "Hi",
-        "Tim1": "Hi",
-        "answers": [{
+        "convo":".\\files\\2Greetings",
+        "answers": 2,
+        "responses":[{
             "answerno": 1,
             "text": "Hi Tom",
             "next": 4,
@@ -19,8 +20,7 @@
         }]
     },
     "Block2": {
-        "Tom1": "Hiiiiii",
-        "Tim1": "Hi",
+        "convo":".\\files\\Convo2",
         "answers": [{
             "answerno": 1,
             "text": "Hi Tom",
