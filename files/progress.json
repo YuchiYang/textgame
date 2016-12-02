@@ -1,0 +1,36 @@
+{
+  "names":{
+    "tim":0,
+    "tom":1,
+    "jim":2
+  },
+
+  "convos":[{
+      "convo":".\\files\\convo1.json",
+      "qurstion":0
+    },
+    {
+      "convo":".\\files\\convo2.json",
+      "question":0
+    }],
+
+  "tim":{
+    "current_convo":0,
+    "relationship_pts":0,
+    "r1":10,
+    "r2":50
+
+  },
+  "tom":{
+    "current_convo":0,
+    "relationship_pts":0,
+    "r0":10,
+    "r2":50
+  },
+  "jim":{
+    "current_convo":0,
+    "relationship_pts":0,
+    "r0":10,
+    "r1":50
+  }
+}

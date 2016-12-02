@@ -1,0 +1,39 @@
+{
+  "title":"second Convo",
+  "participant1": "tom",
+  "participant2": "tim",
+  "Blocks":2,
+  "Block1": {
+      "convo":".\\files\\2Greetings",
+      "answers": 2,
+      "responses":[{
+          "answerno": 1,
+          "text": "Hi Tom",
+          "next": 4,
+          "rTom": 20,
+          "rTim": -15
+      }, {
+          "answerno": 2,
+          "text": "Hi guys",
+          "next": 9,
+          "rTom": 20,
+          "rTim": 15
+      }]
+  },
+  "Block2": {
+      "convo":".\\files\\Convo2",
+      "answers": [{
+          "answerno": 1,
+          "text": "Hi Tom",
+          "next": 4,
+          "rTom": 20,
+          "rTim": -15
+      }, {
+          "answerno": 2,
+          "text": "Hi guys",
+          "next": 9,
+          "rTom": 20,
+          "rTim": 15
+      }]
+  }
+}
